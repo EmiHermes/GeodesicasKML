@@ -8,5 +8,9 @@ KML is the standar file of Google Maps.
 
 Fernando wanted this program because he uses another program and cannot read KML files :)
 
+
+Example of the program: <br/>
+![alt text](https://github.com/EmiHermes/GeodesicasKML/blob/master/GeodesicasKML/Program_Example.png.jpg)
+
 EmiHermes
 
